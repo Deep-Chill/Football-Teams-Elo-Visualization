@@ -29,6 +29,6 @@ A CSV file is included which includeds the following columns:
 
 ## Visualization
 
-The script will produce a Plotly line chart showing the Elo ratings of the top 10 current teams over time.
+The script will produce a Plotly line chart showing the Elo ratings of the top current teams over time.
 
 <a href="https://ibb.co/KhTpHGJ"><img src="https://i.ibb.co/kBNsFyt/Screenshot-3.png" alt="Screenshot-3" border="0"></a>
